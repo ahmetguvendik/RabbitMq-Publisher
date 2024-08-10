@@ -1,0 +1,17 @@
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/bin/Debug/net7.0/RabbitMq.Publisher
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/bin/Debug/net7.0/RabbitMq.Publisher.deps.json
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/bin/Debug/net7.0/RabbitMq.Publisher.runtimeconfig.json
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/bin/Debug/net7.0/RabbitMq.Publisher.dll
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/bin/Debug/net7.0/RabbitMq.Publisher.pdb
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/obj/Debug/net7.0/RabbitMq.Publisher.csproj.AssemblyReference.cache
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/obj/Debug/net7.0/RabbitMq.Publisher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/obj/Debug/net7.0/RabbitMq.Publisher.AssemblyInfoInputs.cache
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/obj/Debug/net7.0/RabbitMq.Publisher.AssemblyInfo.cs
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/obj/Debug/net7.0/RabbitMq.Publisher.csproj.CoreCompileInputs.cache
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/obj/Debug/net7.0/RabbitMq.Publisher.csproj.CopyComplete
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/obj/Debug/net7.0/RabbitMq.Publisher.dll
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/obj/Debug/net7.0/refint/RabbitMq.Publisher.dll
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/obj/Debug/net7.0/RabbitMq.Publisher.pdb
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/obj/Debug/net7.0/RabbitMq.Publisher.genruntimeconfig.cache
+/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/obj/Debug/net7.0/ref/RabbitMq.Publisher.dll

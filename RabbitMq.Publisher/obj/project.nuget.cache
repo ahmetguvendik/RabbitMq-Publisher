@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kMekXJl/UqYPwas0p4e7eNa7TNzSzV1w6RBJ48j1da9DuqpDgfktog+aACaf8MzO69rOH6iRAhCh+PH2yUFuuA==",
+  "success": true,
+  "projectFilePath": "/Users/ahmetguvendik/Desktop/Projeler/RabbitMq.Publisher/RabbitMq.Publisher/RabbitMq.Publisher.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmetguvendik/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/Users/ahmetguvendik/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

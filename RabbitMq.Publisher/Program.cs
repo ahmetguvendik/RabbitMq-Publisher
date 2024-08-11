@@ -11,13 +11,20 @@ using IConnection connection = connectionFactory.CreateConnection();
 using IModel channel = connection.CreateModel();
 
 //Queue Olusturma
-channel.QueueDeclare(queue: "example-queeue", exclusive: false);
+channel.QueueDeclare(queue: "example-queeue", exclusive: false,durable:true); //Kuyruktaki veri kalici olsun diye
+
+IBasicProperties properties = channel.CreateBasicProperties();
+properties.Persistent = true;
 
 //Queue a mesaj gonderme
 //Rabbitmq kuyruga atacagiz mesajlari byte turunde kabul etmektedir. Mesajlari byte a donusturmek gerekiyor.
+for (int i = 0; i < 100; i++)
+{
+    byte[] message = Encoding.UTF8.GetBytes("Merhaba" + i);
+    channel.BasicPublish(exchange: "", routingKey: "example-queeue", body: message, basicProperties: properties);
+}
 
-byte[] message = Encoding.UTF8.GetBytes("Merhaba");
-channel.BasicPublish(exchange: "", routingKey: "example-queeue", body: message);
+
 //Eger ki exchange e bir isim vermezsek default olarak DirectExchange olarak calisacaktir.
 
 Console.Read();

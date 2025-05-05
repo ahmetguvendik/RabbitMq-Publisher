@@ -4,7 +4,7 @@ using RabbitMQ.Client;
 
 //Baglanti Olusturma
 ConnectionFactory connectionFactory = new();
-connectionFactory.Uri = new Uri("amqps://wqbvawvt:aTi_gA9eIEH4Ot3LV4PDfWHGFZieaNK-@shark.rmq.cloudamqp.com/wqbvawvt");
+connectionFactory.Uri = new Uri("//");
 
 //Baglantiyi Aktif Etme
 using IConnection connection = connectionFactory.CreateConnection();
